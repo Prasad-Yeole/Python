@@ -1,7 +1,6 @@
 <div align="center">
     <h1>PYTHON APPLICATIONS USING PYTHON 3X</h1>
 </div>
-#
 
 <div align="center">
     <h1>IN THIS REPOSITORY I COVER APPLICATIONS BASED ON BELOW CONCEPTS:</h1>
